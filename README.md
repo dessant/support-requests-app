@@ -2,6 +2,9 @@
 
 [![Version](https://img.shields.io/npm/v/support-requests.svg?colorB=007EC6)](https://www.npmjs.com/package/support-requests)
 
+> This project is in maintenance mode, migrating to the version
+built on GitHub Actions is recommended: https://github.com/dessant/support-requests
+
 Support Requests is a GitHub App built with [Probot](https://github.com/probot/probot)
 that comments on and closes issues labeled as support requests.
 
