@@ -1,6 +1,5 @@
 # Support Requests
 
-[![Build Status](https://img.shields.io/travis/com/dessant/support-requests/master.svg)](https://travis-ci.com/dessant/support-requests)
 [![Version](https://img.shields.io/npm/v/support-requests.svg?colorB=007EC6)](https://www.npmjs.com/package/support-requests)
 
 Support Requests is a GitHub App built with [Probot](https://github.com/probot/probot)
@@ -35,7 +34,7 @@ or add it at the same file path to a repository named `.github`.
 The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Support Requests - https://github.com/dessant/support-requests
+# Configuration for Support Requests - https://github.com/dessant/support-requests-app
 
 # Label used to mark issues as support requests
 supportLabel: support
@@ -67,7 +66,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2017-2019 Armin Sebastian
+Copyright (c) 2017-2020 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.

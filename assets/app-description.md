@@ -1,6 +1,6 @@
 A GitHub App that comments on and closes issues labeled as support requests.
 
-![](https://raw.githubusercontent.com/dessant/support-requests/master/assets/screenshot.png)
+![](https://raw.githubusercontent.com/dessant/support-requests-app/master/assets/screenshot.png)
 
 ## Supporting the Project
 
@@ -19,7 +19,7 @@ The continued development of Support Requests is made possible thanks to the sup
 Create `.github/support.yml` in the default branch to enable the app, or add it at the same file path to a repository named `.github`. The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Support Requests - https://github.com/dessant/support-requests
+# Configuration for Support Requests - https://github.com/dessant/support-requests-app
 
 # Label used to mark issues as support requests
 supportLabel: support
