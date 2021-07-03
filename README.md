@@ -2,26 +2,16 @@
 
 [![Version](https://img.shields.io/npm/v/support-requests.svg?colorB=007EC6)](https://www.npmjs.com/package/support-requests)
 
-> This project is in maintenance mode, migrating to the version
-built on GitHub Actions is recommended: https://github.com/dessant/support-requests
+> This project is no longer maintained, please migrate to [Support Requests](https://github.com/dessant/support-requests).
 
 Support Requests is a GitHub App built with [Probot](https://github.com/probot/probot)
 that comments on and closes issues labeled as support requests.
 
 ![](assets/screenshot.png)
 
-## Supporting the Project
-
-The continued development of Support Requests is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=support-requests&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=support-requests&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=support-requests&src=repo).
-
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/support)**
+1. **[Install the GitHub App]()**
    for the intended repositories
 2. Create `.github/support.yml` based on the template below
 3. Start labeling issues as support requests
@@ -69,7 +59,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2017-2020 Armin Sebastian
+Copyright (c) 2017-2021 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.
